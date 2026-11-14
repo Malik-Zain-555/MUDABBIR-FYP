@@ -1,0 +1,115 @@
+surah_id,name_english,name_arabic,name_meaning,revelation_place,total_ayat
+1,Al-Fātihah,ٱلْفَاتِحَة,The Opening,Makkah,7
+2,Al-Baqarah,ٱلْبَقَرَة,The Cow,Madinah,286
+3,Āl-I-‘Imrān,آلِ عِمْرَان,The Family Of ‘Imrān,Madinah,200
+4,An-Nisā’,ٱلنِّسَاء,Women,Madinah,176
+5,Al-Mā’Idah,ٱلْمَائِدَة,The Table Spread,Madinah,120
+6,Al-An‘Ām,ٱلْأَنْعَام,The Cattle,Makkah,165
+7,Al-A‘Rāf,ٱلْأَعْرَاف,The Heights,Makkah,206
+8,Al-Anfāl,ٱلْأَنْفَال,Spoils Of War,Madinah,75
+9,At-Tawbah,ٱلتَّوْبَة,Repentance,Madinah,129
+10,Yūnus,يُونُس,Jonah,Makkah,109
+11,Hūd,هُود,Hud,Makkah,123
+12,Yūsuf,يُوسُف,Joseph,Makkah,111
+13,Ar-Ra‘D,ٱلرَّعْد,Thunder,Madinah,43
+14,Ibrāhīm,إِبْرَاهِيم,Abraham,Makkah,52
+15,Al-Hijr,ٱلْحِجْر,The Rocky Tract,Makkah,99
+16,An-Nahl,ٱلنَّحْل,The Bee,Makkah,128
+17,Al-Isrā’,ٱلْإِسْرَاء,The Night Journey,Makkah,111
+18,Al-Kahf,ٱلْكَهْف,The Cave,Makkah,110
+19,Maryam,مَرْيَم,Mary,Makkah,98
+20,Tāhā,طه,Ta-Ha,Makkah,135
+21,Al-Ambiyā’,ٱلْأَنْبِيَاء,The Prophets,Makkah,112
+22,Al-Hajj,ٱلْحَجّ,The Pilgrimage,Madinah,78
+23,Al-Mu’Minūn,ٱلْمُؤْمِنُون,The Believers,Makkah,118
+24,An-Nūr,ٱلنُّور,The Light,Madinah,64
+25,Al-Furqān,ٱلْفُرْقَان,The Criterion,Makkah,77
+26,Ash-Shu‘Arā’,ٱلشُّعَرَاء,The Poets,Makkah,227
+27,An-Naml,ٱلنَّمْل,The Ants,Makkah,93
+28,Al-Qasas,ٱلْقَصَص,The Narratives,Makkah,88
+29,Al-‘Ankabūt,ٱلْعَنْكَبُوت,The Spider,Makkah,69
+30,Ar-Rūm,ٱلرُّوم,The Roman Empire,Makkah,60
+31,Luqmān,لُقْمَان,Luqman,Makkah,34
+32,As-Sajdah,ٱلسَّجْدَة,Prostration,Makkah,30
+33,Al-Ahzāb,ٱلْأَحْزَاب,The Confederates,Madinah,73
+34,Saba’,سَبَأ,Sheba,Makkah,54
+35,Fātir,فَاطِر,The Originator,Makkah,45
+36,Yāsīn,يس,Ya-Sin,Makkah,83
+37,As-Sāffāt,ٱلصَّافَّات,Those Ranged In Ranks,Makkah,182
+38,Sād,ص,Sad,Makkah,88
+39,Az-Zumar,ٱلزُّمَر,The Crowds,Makkah,75
+40,Ghāfir,غَافِر,The Forgiving,Makkah,85
+41,Fussilat,فُصِّلَت,Clearly Spelled Out,Makkah,54
+42,Ash-Shūrā,ٱلشُّورىٰ,The Consultation,Makkah,53
+43,Az-Zukhruf,ٱلْزُّخْرُف,Ornaments Of Gold,Makkah,89
+44,Ad-Dukhān,ٱلدُّخَان,Smoke,Makkah,59
+45,Al-Jāthiyah,ٱلْجَاثِيَة,The Kneeling,Makkah,37
+46,Al-Ahqāf,ٱلْأَحْقَاف,The Sand-Dunes,Makkah,35
+47,Muhammad,مُحَمَّد,Muhammad,Madinah,38
+48,Al-Fath,ٱلْفَتْح,Victory,Madinah,29
+49,Al-Hujurāt,ٱلْحُجُرَات,The Apartments,Madinah,18
+50,Qāf,ق,Qaf,Makkah,45
+51,Adh-Dhāriyāt,ٱلذَّارِيَات,The Scattering Winds,Makkah,60
+52,At-Tūr,ٱلطُّور,Mount Sinai,Makkah,49
+53,An-Najm,ٱلنَّجْم,The Star,Makkah,62
+54,Al-Qamar,ٱلْقَمَر,The Moon,Makkah,55
+55,Ar-Rahmān,ٱلرَّحْمَٰن,The Most Merciful,Madinah,78
+56,Al-Wāqi‘Ah,ٱلْوَاقِعَة,The Inevitable Event,Makkah,96
+57,Al-Hadīd,ٱلْحَدِيد,Iron,Madinah,29
+58,Al-Mujādalah,ٱلْمُجَادِلَة,The Quarrel,Madinah,22
+59,Al-Hashr,ٱلْحَشْر,The Gathering,Madinah,24
+60,Al-Mumtahinah,ٱلْمُمْتَحَنَة,The Woman To Be Examined,Madinah,13
+61,As-Saff,ٱلصَّفّ,Battle Array,Madinah,14
+62,Al-Jumu‘Ah,ٱلْجُمُعَة,"Friday, The Congregation",Madinah,11
+63,Al-Munāfiqūn,ٱلْمُنَافِقُون,The Hypocrites,Madinah,11
+64,At-Taghābun,ٱلتَّغَابُن,Mutual Loss And Gain,Madinah,18
+65,At-Talāq,ٱلطَّلَاق,Divorce,Madinah,12
+66,At-Tahrīm,ٱلتَّحْرِيم,Prohibition,Madinah,12
+67,Al-Mulk,ٱلْمُلْك,Dominion,Makkah,30
+68,Al-Qalam,ٱلْقَلَم,The Pen,Makkah,52
+69,Al-Hāqqah,ٱلْحَاقَّة,The Concrete Reality,Makkah,52
+70,Al-Ma‘Ārij,ٱلْمَعَارِج,The Ways Of Ascent,Makkah,44
+71,Nūh,نُوح,Noah,Makkah,28
+72,Al-Jinn,ٱلْجِنّ,The Jinn,Makkah,28
+73,Al-Muzzammil,ٱلْمُزَّمِّل,Folded In Garments,Makkah,20
+74,Al-Muddaththir,ٱلْمُدَّثِّر,The Enwrapped,Makkah,56
+75,Al-Qiyāmah,ٱلْقِيَامَة,The Resurrection,Makkah,40
+76,Al-Insān,ٱلْإِنْسَان,Man,Madinah,31
+77,Al-Mursalāt,ٱلْمُرْسَلَات,The Emissaries,Makkah,50
+78,An-Naba’,ٱلنَّبَأ,The News,Makkah,40
+79,An-Nāzi‘Āt,ٱلنَّازِعَات,Those Who Pull,Makkah,46
+80,‘Abasa,عَبَسَ,He Frowned,Makkah,42
+81,At-Takwīr,ٱلتَّكْوِير,Shrouding In Darkness,Makkah,29
+82,Al-Infitār,ٱلْإِنْفِطَار,The Cleaving Asunder,Makkah,19
+83,Al-Mutaffifīn,ٱلْمُطَفِّفِين,Dealing In Fraud,Makkah,36
+84,Al-Inshiqāq,ٱلْإِنْشِقَاق,The Splitting Asunder,Makkah,25
+85,Al-Burūj,ٱلْبُرُوج,The Zodiac,Makkah,22
+86,At-Tāriq,ٱلطَّارِق,That Which Seems At Night,Makkah,17
+87,Al-A‘Lā,ٱلْأَعْلَىٰ,The Most High,Makkah,19
+88,Al-Ghāshiyah,ٱلْغَاشِيَة,The Overwhelming Event,Makkah,26
+89,Al-Fajr,ٱلْفَجْر,The Dawn,Makkah,30
+90,Al-Balad,ٱلْبَلَد,The City,Makkah,20
+91,Ash-Shams,ٱلشَّمْس,The Sun,Makkah,15
+92,Al-Layl,ٱللَّيْل,The Night,Makkah,21
+93,Ad-Duhā,ٱلضُّحَىٰ,The Forenoon,Makkah,11
+94,Ash-Sharh,ٱلشَّرْح,The Opening Up,Makkah,8
+95,At-Tīn,ٱلتِّين,The Fig,Makkah,8
+96,Al-‘Alaq,ٱلْعَلَق,The Hanging Mass,Makkah,19
+97,Al-Qadr,ٱلْقَدْر,Determination,Makkah,5
+98,Al-Bayyinah,ٱلْبَيِّنَة,The Clear Evidence,Madinah,8
+99,Az-Zalzalah,ٱلزَّلْزَلَة,The Earthquake,Madinah,8
+100,Al-‘Ādiyāt,ٱلْعَادِيَات,Those That Run,Makkah,11
+101,Al-Qāri‘Ah,ٱلْقَارِعَة,Rattling Violent Jerk And Thunder,Makkah,11
+102,At-Takāthur,ٱلتَّكَاثُر,Piling Up,Makkah,8
+103,Al-‘Asr,ٱلْعَصْر,The Time,Makkah,3
+104,Al-Humazah,ٱلْهُمَزَة,The Slanderer,Makkah,9
+105,Al-Fīl,ٱلْفِيل,The Elephant,Makkah,5
+106,Al-Quraysh,قُرَيْش,Quraish,Makkah,4
+107,Al-Mā‘Ūn,ٱلْمَاعُون,Things Of Common Use,Makkah,7
+108,Al-Kawthar,ٱلْكَوْثَر,The Abundance,Makkah,3
+109,Al-Kāfirūn,ٱلْكَافِرُون,The Unbelievers,Makkah,6
+110,An-Nasr,ٱلنَّصْر,Help,Madinah,3
+111,Al-Masad,ٱلْمَسَد,The Twisted Strands,Makkah,5
+112,Al-Ikhlās,ٱلْإِخْلَاص,Purity,Makkah,4
+113,Al-Falaq,ٱلْفَلَق,The Fission,Makkah,5
+114,Al-Nās,ٱلنَّاس,Men,Makkah,6
