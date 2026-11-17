@@ -1,5 +1,5 @@
 """
-load_quran.py - fills the Mudabbir Quran tables from the CSV files in this folder.
+load_quran.py - fills the Mudabbir Quran tables from the CSV files in the data/ folder.
 
 Before running:
     1. Run 01_quran_core.sql first (creates the empty tables).
